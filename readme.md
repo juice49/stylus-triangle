@@ -4,15 +4,18 @@ A little mixin for generating CSS triangles with Stylus. Badassical!
 
 ## Usage
 
-    // triangle(width, height, direction, color)
+	// triangle(width, height, direction, color)
 
-    .make-me-a-triangle-baby
-        triangle(10px, 10px, 'bottom', #000)
+	.make-me-a-triangle-baby
+		triangle(10px, 10px, 'bottom', #000)
 
 
 ## Todo
 
-	- Add topLeft, topRight, bottomLeft & bottomRight directions
+- Add topLeft, topRight, bottomLeft & bottomRight directions
+
+## Bower
+	bower install StylusTriangle
 
 ## Thanks
 
