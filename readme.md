@@ -14,8 +14,8 @@ A little mixin for generating CSS triangles with Stylus. Badassical!
 
 - Add topLeft, topRight, bottomLeft & bottomRight directions
 
-## Bower
-	bower install StylusTriangle
+## npm
+	npm install juice49/StylusTriangle
 
 ## Thanks
 
