@@ -1,4 +1,4 @@
-# Stylus Triangles
+# Stylus Triangle Generator
 
 A little mixin for generating CSS triangles with Stylus. Badassical!
 
@@ -11,6 +11,11 @@ A little mixin for generating CSS triangles with Stylus. Badassical!
 
 ## npm
 	npm install juice49/StylusTriangle
+
+## Release Notes
+
+### 0.1.0 (14/03/14)
+- Add `topLeft`, `topRight`, `bottomRight`, and `bottomLeft` directions ([Sebastian Müller](https://github.com/sibbl))
 
 ## Thanks
 
