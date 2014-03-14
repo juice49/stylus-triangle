@@ -9,11 +9,6 @@ A little mixin for generating CSS triangles with Stylus. Badassical!
 	.make-me-a-triangle-baby
 		triangle(10px, 10px, 'bottom', #000)
 
-
-## Todo
-
-- Add topLeft, topRight, bottomLeft & bottomRight directions
-
 ## npm
 	npm install juice49/StylusTriangle
 
