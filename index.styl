@@ -6,7 +6,7 @@ triangle(width = 10px, height = 10px, direction = 'bottom', color = #000)
 	background 0
 	border-style solid
 
-	// Style configurations for each direction
+	// Styles for each direction
 	directions = {
 		top: {
 			border-width: 0 (width * .5) height (width * .5),
@@ -42,6 +42,6 @@ triangle(width = 10px, height = 10px, direction = 'bottom', color = #000)
 		}
 	}
 
-	// Mixin style configuration for passed direction
-	for key, value in directions[direction]
-		{key}: value
+	// Mixin styles for passed direction
+	styles = directions[direction]
+	{styles}
